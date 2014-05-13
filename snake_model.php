@@ -1,5 +1,7 @@
 <?php
 
+namespace MySnake;
+
 class snake_model{
         private $SnakeView;
 	private $snake_body = array();

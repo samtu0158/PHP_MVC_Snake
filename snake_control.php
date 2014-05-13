@@ -1,5 +1,7 @@
 <?php
 
+namespace MySnake;
+
 class snake_control{
    private $SnakeModel;
 

@@ -1,5 +1,5 @@
 <?php
-
+namespace MySnake;
 require 'snake_control.php';
 require 'snake_model.php';
 require 'snake_view.php';

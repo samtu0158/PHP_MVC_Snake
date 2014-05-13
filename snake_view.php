@@ -1,5 +1,7 @@
 <?php
 
+namespace MySnake;
+
 class snake_view{
    private $main_window;
    private $X_window;
